@@ -1,30 +1,19 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+This repository contains the website code written for fitness solutions
 
 ### What is this repository for? ###
-This repository contains the code for and addon requested by doitfast
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+
+The repository contains front and backend code written from the scratch using php ans sql
 
 ### How do I get set up? ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
+You just need a good editor(Sublime is suggested)
 
 ### Who do I talk to? ###
-In case of owner contact the owner of the repo at rohan.akut97@gmail.com
+
+In case of queries contact the owner of the repo at rohan.akut97@gmail.com
 bitbucket id:rohan_akut
+github id:rohanakut
 * Repo owner or admin
 * Other community or team contact
