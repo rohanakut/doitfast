@@ -1,0 +1,40 @@
+h1{
+	margin-left:600px;
+	position:absolute;
+	font-family:"Sans-serif";
+	color:black;
+	
+}
+#wrapper{
+	text-align:center;
+}
+#submit{
+	padding:5px;
+	position:relative;
+}
+#form-wrapper{
+	text-align:center;
+	margin-top:50px;
+}
+#form-text{
+	padding:0px;
+	border-top:5px;
+	
+}
+#password{
+	border-top:15px;
+	padding:5px;
+}
+#id{
+	margin-top:-10px;
+}
+#border{
+	width:500px;
+	height:200px;
+	border:solid #000;
+	margin-top:150px;
+margin-bottom:150px;
+margin-right:150px;
+margin-left:450px;
+	position:absolute;
+}
