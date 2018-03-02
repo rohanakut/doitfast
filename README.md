@@ -17,3 +17,6 @@ bitbucket id:rohan_akut
 github id:rohanakut
 * Repo owner or admin
 * Other community or team contact
+
+###The link to website is###
+http://doitfast.000webhostapp.com/
