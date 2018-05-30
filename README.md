@@ -1,10 +1,10 @@
 # README #
 
-This repository contains the website code written for fitness solutions
+This repository contains the website code written for basic DBMS website
 
 ### What is this repository for? ###
 
-The repository contains front and backend code written from the scratch using php ans sql
+The repository contains front and backend code written from the scratch using php and sql
 
 ### How do I get set up? ###
 Clone the Github Repository and place the files in the htdocs file of Xampp.
@@ -19,8 +19,11 @@ For CSS Internal StyleSheet method has been adopted.
 ### Who do I talk to? ###
 
 In case of queries contact the owner of the repo at rohan.akut97@gmail.com
+
 bitbucket id:rohan_akut
+
 github id:rohanakut
+
 * Repo owner or admin
 * Other community or team contact
 
